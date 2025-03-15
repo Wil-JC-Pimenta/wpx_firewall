@@ -1,4 +1,4 @@
-in# WPX Firewall
+# WPX Firewall
 
 A Python-based network firewall with an interactive interface for real-time packet monitoring and IP blocking.
 
