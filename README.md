@@ -1,4 +1,4 @@
-# WPX Firewall
+in# WPX Firewall
 
 A Python-based network firewall with an interactive interface for real-time packet monitoring and IP blocking.
 
@@ -27,7 +27,8 @@ A Python-based network firewall with an interactive interface for real-time pack
 1. Clone the repository:
 
 ```bash
-git clone [REPOSITORY_URL]
+git clone https://github.com/Wil-JC-Pimenta/wpx_firewall
+
 cd firewall
 ```
 
