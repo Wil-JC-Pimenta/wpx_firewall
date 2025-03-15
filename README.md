@@ -29,7 +29,7 @@ A Python-based network firewall with an interactive interface for real-time pack
 ```bash
 git clone https://github.com/Wil-JC-Pimenta/wpx_firewall
 
-cd firewall
+cd wpx_firewall
 ```
 
 2. Install dependencies:
