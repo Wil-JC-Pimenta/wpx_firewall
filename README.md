@@ -2,7 +2,7 @@
 
 A Python-based network firewall with an interactive interface for real-time packet monitoring and IP blocking.
 
-![Firewall Interface](docs/interface.png)
+
 
 ## Features
 
@@ -27,8 +27,9 @@ A Python-based network firewall with an interactive interface for real-time pack
 1. Clone the repository:
 
 ```bash
-git clone [REPOSITORY_URL]
-cd firewall
+git clone https://github.com/Wil-JC-Pimenta/wpx_firewall
+
+cd wpx_firewall
 ```
 
 2. Install dependencies:
